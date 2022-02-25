@@ -1,7 +1,8 @@
 Docker image for OpenRefine
 
-Usage
--------
+[![docker-openrefine-actions-workflow](https://github.com/aot29/docker-openrefine/actions/workflows/master.yml/badge.svg)](https://github.com/aot29/docker-openrefine/actions/workflows/master.yml)
+
+# Usage
 Add this to a docker-compose.yml services section
 
 ```
